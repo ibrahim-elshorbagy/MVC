@@ -1,0 +1,17 @@
+{
+    "name": "pc/project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "ibrahim",
+            "email": "ibrahim.moh0007@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
